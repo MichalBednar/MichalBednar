@@ -11,5 +11,5 @@ I am currently learning HTML&CSS, Python and JavaScript ⌨️
 - Write a tech blog.
 
 
-### Keep Codin' Fellas!
+### Keep on Codin' Fellas!
 ![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
