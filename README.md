@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hola, my name is Michal! 🤓
 
-<!--
-**MichalBednar/MichalBednar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Born in Czech Republic, living in Guadalajara, México 🇲🇽.
 
-Here are some ideas to get you started:
+I am currently learning HTML&CSS, Python and JavaScript. ⌨️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Current Goals in Tech World:
+- Be able to develop websites from scratch.
+- Keep learning Python, HTML&CSS and JavaScript.
+- Eat a lot of tacos because that's also tech, right?! 🌮
+- Write a tech blog.
+
+
+![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
