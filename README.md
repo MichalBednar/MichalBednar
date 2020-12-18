@@ -1,4 +1,4 @@
-### Hola, my name is Michal! 🤓
+### Hola, my name is Michal... 🤓
 
 Born in Czech Republic, living in Guadalajara, México 🇲🇽
 
@@ -11,5 +11,5 @@ I am currently learning HTML&CSS, Python and JavaScript ⌨️
 - Write a tech blog.
 
 
-### Keep on Codin' Fellas!
+### Keep on Codin' Fellas!!!!!
 ![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
