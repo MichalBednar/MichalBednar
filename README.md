@@ -1,6 +1,6 @@
 ### Hola, my name is Michal... 🤓
 
-Born in Czech Republic, living in Guadalajara, México 🇲🇽
+Born in Czech Republic. Living in Guadalajara, México 🇲🇽
 
 I am currently learning HTML&CSS, Python and JavaScript ⌨️
 
