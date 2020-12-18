@@ -1,10 +1,10 @@
-## Hola, my name is Michal! 🤓
+### Hola, my name is Michal! 🤓
 
 Born in Czech Republic, living in Guadalajara, México 🇲🇽
 
 I am currently learning HTML&CSS, Python and JavaScript ⌨️
 
-## My Current Goals in Tech World:
+### My Current Goals in Tech World:
 - Be able to develop websites from scratch.
 - Keep learning Python, HTML&CSS and JavaScript.
 - Eat a lot of tacos because that's also tech, right?! 🌮
