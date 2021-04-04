@@ -1,4 +1,4 @@
-### Hey, my name is Michal! 🤓
+### Hey, my name is Michal! 👨‍💻
 
 Born in Czech Republic. Living in Guadalajara, México 🇲🇽
 
